@@ -1,6 +1,6 @@
-# RGV Pantry Finder
+# Hope Harvest - Pantry Finder
 
-This is a small React-in-the-browser front-end (`index.html` + `app.js`) served by a Node.js API that stores pantry data in a local database file.
+This is a webpage that helps people find their local pantries and gives them recipes
 
 ## Run
 
