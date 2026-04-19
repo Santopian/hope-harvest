@@ -1,0 +1,49 @@
+[
+  {
+    "id": "bean-rice-bowl",
+    "title": "Beans + Rice Bowl",
+    "required": ["beans", "rice"],
+    "optional": ["onion", "garlic", "tomato", "frozen_veg", "cheese", "hot_sauce"],
+    "timeMins": 20,
+    "steps": [
+      "Cook rice (or heat ready rice).",
+      "Warm beans with any spices or onions/garlic if available.",
+      "Combine in a bowl; add any optional toppings."
+    ]
+  },
+  {
+    "id": "tuna-crackers",
+    "title": "Tuna Salad + Crackers",
+    "required": ["canned_tuna"],
+    "optional": ["mayo", "mustard", "pickle", "onion", "crackers", "bread"],
+    "timeMins": 10,
+    "steps": [
+      "Drain tuna.",
+      "Mix with mayo (or a little oil) and any extras.",
+      "Serve with crackers or on bread."
+    ]
+  },
+  {
+    "id": "lentil-soup",
+    "title": "Simple Lentil Soup",
+    "required": ["lentils", "broth_or_water"],
+    "optional": ["onion", "garlic", "carrot", "celery", "canned_tomato", "spices"],
+    "timeMins": 35,
+    "steps": [
+      "Rinse lentils.",
+      "Simmer lentils in broth/water until tender.",
+      "Add any optional veggies/spices and simmer 10 more minutes."
+    ]
+  },
+  {
+    "id": "oatmeal-fruit",
+    "title": "Oatmeal with Fruit",
+    "required": ["oats", "water_or_milk"],
+    "optional": ["banana", "apple", "cinnamon", "peanut_butter", "honey"],
+    "timeMins": 8,
+    "steps": [
+      "Cook oats with water or milk.",
+      "Top with fruit and any optional add-ins."
+    ]
+  }
+]

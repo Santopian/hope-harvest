@@ -1,0 +1,27 @@
+[
+  {
+    "id": "food-bank-rgv",
+    "name": "Food Bank RGV (Main Warehouse)",
+    "address1": "724 N Cage Blvd",
+    "city": "Pharr",
+    "state": "TX",
+    "zip": "78577",
+    "lat": 26.1959,
+    "lng": -98.1862,
+    "phone": "(956) 682-8101",
+    "website": "https://foodbankrgv.com/",
+    "hoursText": "Mon–Fri: 8am–5pm",
+    "eligibilityText": "Varies by program. Call or check the website for distribution sites and requirements.",
+    "offerings": [
+      "canned",
+      "grains",
+      "produce",
+      "protein",
+      "hygiene",
+      "baby",
+      "diapers"
+    ],
+    "notes": "Use as a reference hub; many pantries distribute via partner sites.",
+    "lastVerified": "2026-04-18"
+  }
+]

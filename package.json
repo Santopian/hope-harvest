@@ -1,0 +1,13 @@
+{
+  "name": "rgv-pantry-finder",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nedb-promises": "^6.2.3"
+  }
+}
